@@ -137,5 +137,6 @@ Some contributors use AI in their contributions. These models vary from ChatGPT,
 
 ## License
 
-This project is licensed under the MIT License.  
+This project has a custom license.
+Please see License.md
 Copyright (c) 2025 - 2026 Luke Rapkin
