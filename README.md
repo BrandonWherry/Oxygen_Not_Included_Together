@@ -139,4 +139,5 @@ Some contributors use AI in their contributions. These models vary from ChatGPT,
 
 This project has a custom license.
 Please see License.md
+
 Copyright (c) 2025 - 2026 Luke Rapkin
