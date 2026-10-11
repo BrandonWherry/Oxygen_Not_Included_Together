@@ -32,7 +32,7 @@ in substantial part by generative AI or AI-assisted code-generation tools,
 unless the project maintainer has explicitly approved their use.
 Ordinary autocomplete, syntax completion, formatting, refactoring, 
 and similar non-substantive developer assistance are permitted.
-Preferably avoid large, ai-generated comment blocks in source cod, keep comments concise and only use them when needed, code should be self documenting.
+Preferably avoid large, ai-generated comment blocks in source code, keep comments concise and only use them when needed, code should be self documenting.
 
 DISCLAIMER OF WARRANTY
 
