@@ -10,7 +10,7 @@
 
 	<!-- Mod Info, used to generate yaml files on the fly -->
 	<PropertyGroup>
-		<ModName>Oxygen Not Included Together</ModName>
+		<ModName>ONI Together (Brandon fork)</ModName>
 		<ModDescription>Adds multiplayer to Oxygen Not Included! By Lyraedan</ModDescription>
 		<MinimumSupportedBuild>$(TargetGameVersion)</MinimumSupportedBuild>
 		<APIVersion>2</APIVersion>
