@@ -1,8 +1,7 @@
 > [!IMPORTANT]
-> **This is Brandon's personal fork** of [Lyraedan/Oxygen_Not_Included_Together](https://github.com/Lyraedan/Oxygen_Not_Included_Together), not the official project.
-> To install this fork, see [FORK_README.md](FORK_README.md). Please don't report issues with this fork to the original project.
-> This fork will **not** be published to the Steam Workshop or released as compiled builds. For the official mod, use the [ONI Together Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3630759126).
-> The original README follows unchanged.
+> This is my personal fork of [ONI Together](https://github.com/Lyraedan/Oxygen_Not_Included_Together) by Lyraedan, just for playing with a friend. It's not the official project, and I won't be publishing it to the Steam Workshop or releasing builds of it. If you're looking for the mod, grab the official version from the [Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3630759126), and please don't report issues from my fork to the original project.
+>
+> Install instructions for my fork are in [FORK_README.md](FORK_README.md). Everything below is the original README.
 
 ![Logo](https://i.imgur.com/GCIbhpn.png)
 
