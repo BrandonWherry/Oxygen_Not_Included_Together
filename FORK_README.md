@@ -1,7 +1,9 @@
 # ONI Together — Brandon's fork
 
 A personal fork of [ONI Together](https://github.com/Lyraedan/Oxygen_Not_Included_Together) by Lyraedan.
-Source only, per the [license](LICENSE.md): no compiled builds are distributed here.
+Source only, per the [license](LICENSE.md): no compiled builds are distributed here, and this fork will
+**not** be published to the Steam Workshop. For the official mod, use the
+[ONI Together Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3630759126).
 
 ## Install / update (Windows)
 
